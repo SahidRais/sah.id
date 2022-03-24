@@ -1,2 +1,3 @@
 print('halo world')
-print('belajat git')
+print('belajat github')
+print('yes!')
